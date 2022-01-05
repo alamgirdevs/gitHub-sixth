@@ -1,0 +1,13 @@
+h1 {
+    color: blue;
+}
+
+p {
+    color: yellow;
+    background-color: black;
+}
+
+img {
+    height: 500px;
+    width: 50%;
+}
